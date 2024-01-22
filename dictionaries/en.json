@@ -1,0 +1,36 @@
+{
+  "home-page": {    
+    "go_to_blog": "Go to blog list",
+    "go_to_todo": "Go to todo list"
+  },
+  "header": {
+    "home": "Home",
+    "about_us": "About us",
+    "news": "News",
+    "service": "Service",
+    "contact": "Contact"
+  },
+  "footer": {
+    "our-vision": "Our vision is to provide convenience and help increase your sales business.",
+    "about": "About",
+    "how-it-works": "How it works",
+    "featured": "Featured",
+    "partnership": "Partnership",
+    "bussiness-relation": "Bussiness Relation",
+    "community": "Community",
+    "event": "Event",
+    "blog": "Blog",
+    "podcast": "Podcast",
+    "invite-a-friend": "Invite a friend",
+    "socials": "Socials",
+    "copyright": "©2022 MORENT. All rights reserved",
+    "privacy-policy": "Privacy & Policy",
+    "terms-condition": "Terms & Condition"
+  },
+  "todo-list": {
+    "title-todo": "Todo list",
+    "placeholder-input": "Enter your title",
+    "btn-add": "Add",
+    "btn-remove": "Remove"
+  }
+}

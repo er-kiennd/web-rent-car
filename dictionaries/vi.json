@@ -1,0 +1,36 @@
+{
+  "home-page": {
+    "go_to_blog": "Đi đến danh sách blog",
+    "go_to_todo": "Đi đến danh sách todo"
+  },
+  "header": {
+    "home": "Trang chủ",
+    "about_us": "Về chúng tôi",
+    "news": "Tin tức",
+    "service": "Dịch vụ",
+    "contact": "Liên hệ"
+  },
+  "footer": {
+    "our-vision": "Tầm nhìn của chúng tôi là cung cấp sự tiện lợi và giúp tăng doanh số bán hàng của bạn.",
+    "about": "Về",
+    "how-it-works": "Nó hoạt động như nào",
+    "featured": "Đặc sắc",
+    "partnership": "Quan hệ đối tác",
+    "bussiness-relation": "Mỗi quan hệ kinh doanh",
+    "community": "Cộng đồng",
+    "event": "Sự kiện",
+    "blog": "Bài viết",
+    "podcast": "Chương trình radio",
+    "invite-a-friend": "Mời bạn bè",
+    "socials": "Mạng xã hội",
+    "copyright": "©2022 MORENT. Đã đăng ký bản quyền",
+    "privacy-policy": "Chính sách và bảo mật",
+    "terms-condition": "Điều khoản và điều kiện"
+  },
+  "todo-list": {
+    "title-todo": "Danh sách todo",
+    "placeholder-input": "Nhập tiêu đề của bạn",
+    "btn-add": "Thêm",
+    "btn-remove": "Xóa"
+  }
+}
